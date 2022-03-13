@@ -5,7 +5,7 @@
 
 ![Krishna's Github stats](https://github-readme-stats.vercel.app/api?username=iam-krj&theme=jolly&show_icons=true)  
 ![Krishna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-krj&theme=jolly&show_icons=true)
-![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=iam-krj&theme=xcode)](https://github.com/iam-krj/iam-krj)
+![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=iam-krj&theme=xcode)
 
 
 <!--
