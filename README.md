@@ -12,6 +12,7 @@
 
 ![Krishna's Github stats](https://github-readme-stats.vercel.app/api?username=iam-krj&theme=jolly&show_icons=true)  
 ![Krishna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-krj&theme=jolly&show_icons=true)
+  
 ![Krishna's github activity graph](https://activity-graph.herokuapp.com/graph?username=iam-krj&theme=jolly)
   
   
@@ -19,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/iam-krj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_krj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmapalak_23" height="30" width="40" /></a>
-<a href="mailto://smartkrishnaraj2591@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="2020b0101071" height="43" width="40" /></a>
+<a href="mailto:smartkrishnaraj2591@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="2020b0101071" height="43" width="40" /></a>
 
  
  <h3 align="left">Languages and Tools:</h3>
