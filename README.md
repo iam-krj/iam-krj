@@ -20,8 +20,8 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/iam-krj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_krj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmapalak_23" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iam-krj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna raj" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_krj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_krj" height="30" width="40" /></a>
 <a href="mailto:smartkrishnaraj2591@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="2020b0101071" height="43" width="40" /></a>
 
  
